@@ -16,16 +16,6 @@ namespace RD_Challenge
             List<CustomerSuccess> customerSuccesses = new List<CustomerSuccess>();
             List<int> customerSuccessesAway = new List<int>();
 
-            customers.Add(new Customer(1, 20));
-            customers.Add(new Customer(2, 55));
-            customers.Add(new Customer(3, 60));
-            customers.Add(new Customer(4, 80));
-            customers.Add(new Customer(6, 45));
-
-            customerSuccesses.Add(new CustomerSuccess(1, 55));
-            customerSuccesses.Add(new CustomerSuccess(2, 100));
-            customerSuccesses.Add(new CustomerSuccess(3, 50));
-
             CustomerSuccessBalancing customerSuccessBalancing = new CustomerSuccessBalancing(customers, customerSuccesses, customerSuccessesAway);
             customerSuccessBalancing.Run();
         }
