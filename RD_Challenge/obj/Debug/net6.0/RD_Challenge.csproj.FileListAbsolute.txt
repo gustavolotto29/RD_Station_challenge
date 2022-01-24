@@ -1,0 +1,15 @@
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\bin\Debug\net6.0\RD_Challenge.exe
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\bin\Debug\net6.0\RD_Challenge.deps.json
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\bin\Debug\net6.0\RD_Challenge.runtimeconfig.json
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\bin\Debug\net6.0\RD_Challenge.dll
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\bin\Debug\net6.0\ref\RD_Challenge.dll
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\bin\Debug\net6.0\RD_Challenge.pdb
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.AssemblyInfo.cs
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.dll
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\ref\RD_Challenge.dll
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.pdb
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.genruntimeconfig.cache
+C:\Users\gusta\Desktop\RD Station\RD_Challenge\RD_Challenge\obj\Debug\net6.0\RD_Challenge.csproj.AssemblyReference.cache
